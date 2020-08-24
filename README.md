@@ -38,9 +38,9 @@ other cardinality values. It then uses Javascript based web-ui to render graphs 
 [Google Charts](https://developers.google.com/chart) library.
 
 ## Video Tutorial
-| Part 1 |
-| ------ |
-| [![Part-1](https://img.youtube.com/vi/7NvgleOy480/1.jpg)](https://www.youtube.com/watch?v=7NvgleOy480) |
+| Part 1 | Part 2 |
+| ------ | ------ |
+| [![Part-1](https://img.youtube.com/vi/7NvgleOy480/1.jpg)](https://www.youtube.com/watch?v=7NvgleOy480) | [![Part-2](https://img.youtube.com/vi/FyDNn7gZNi4/1.jpg)](https://www.youtube.com/watch?v=FyDNn7gZNi4) |
 
 ## Quick Start
 [![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/GoogleCloudPlatform/redis-dataflow-realtime-analytics.git)
