@@ -1,0 +1,9 @@
+version: 2
+groups:
+- dependency-type: "production"
+  update-type: "minor"
+updates:
+- package-ecosystem: "maven"
+  directory: "/processor", "/dashboard"
+  schedule:
+    interval: "monthly"
