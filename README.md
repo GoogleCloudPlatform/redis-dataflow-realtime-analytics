@@ -114,7 +114,7 @@ The analytic metrics pipeline will read click-stream messages from Pub/Sub and u
 
 1. Create Cloud Storage bucket for temporary and staging area for the pipeline
     ```shell script
-    gsutil mb -l $REGION_ID -p $PROJECT_ID gs://$TEMP_GCS_BUCKET
+    gcloud storage buckets create gs://$TEMP_GCS_BUCKET --project=$PROJECT_ID --location=$REGION_ID
     ```
 2. Launch the pipeline using [Maven](https://apache.org/maven)
     ```shell script
